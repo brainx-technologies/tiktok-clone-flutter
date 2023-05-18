@@ -16,7 +16,8 @@ It took me approximately 7 hours to complete this project, including the time sp
 
 
 ##Video Recording
-For a better understanding of the app's implementation, please check the video located in the "Recording" folder of the repository.
+For a better understanding of the app's implementation, please refer to the video recording showcasing the features and code architecture.
+https://drive.google.com/file/d/1-LURHb2pZcPJtVOXSLAeqdOBBDXZJwu6/view?usp=sharing
 
 
 ## Cross-Platform Framework and Native OS Functions
